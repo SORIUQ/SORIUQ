@@ -25,12 +25,12 @@ Un apasionado del desarrollo de software y la tecnología 💻.
       <img src="https://github-readme-stats.vercel.app/api?username=soriuq&show_icons=true&theme=radical"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soriuq&theme=radical"/>
+      ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=soriuq&layout=compact&theme=radical)
     </td>
   </tr>
 </table>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=soriuq&layout=compact&theme=radical)
+
 
 ---
 
