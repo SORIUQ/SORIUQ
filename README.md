@@ -20,20 +20,13 @@ Un apasionado del desarrollo de software y la tecnología 💻.
 
 ## 📊 Estadísticas de GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=soriuq&show_icons=true&theme=radical"/>
-    </td>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=soriuq&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=soriuq&show_icons=true&theme=radical"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🌎 Encuéntrame en:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jorge-peñalver-quirós/)
-- 🎞️ [Instagram](https://www.instagram.com/soriuq_/)
-- 🌐 [Portafolio](https://soriuq.com)
+- 💻 [LinkedIn](https://www.linkedin.com/in/jorge-peñalver-quirós/)
+- 🔗 [Instagram](https://www.instagram.com/soriuq_/)
+- 🌐 [Portfolio](https://soriuq.com)
